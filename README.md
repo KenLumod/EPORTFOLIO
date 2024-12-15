@@ -43,7 +43,7 @@ This project uses the following technologies:
 5. **Portfolio Section**:
    - Cards showcasing notable projects with descriptions and links to their GitHub repositories.
    - Hover effects to reveal additional details about each project.
-   - Click the project or image to navigate to the GitHub repository.
+   - Clicking project or image will navigate to the GitHub repository.
 
 6. **Contact Section**:
    - Form for visitors to get in touch using Formspree integration.
