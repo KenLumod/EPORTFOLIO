@@ -64,11 +64,11 @@ Here’s the refined version with everything included in the **Acknowledgments**
 ---
 
 ### **Notable Projects**  
-- Minesweeper 2 Players**: An enhanced version of the Minesweeper game with additional features.  
-- Two-Layered Bucket Sort**: An optimized sorting algorithm for large datasets.  
-- DISC Personality Test**: A Java-based application to analyze personality types.  
-- StreetFood Ninja**: A game inspired by Fruit Ninja, featuring Filipino street food.  
-- The Maze of Mysteries**: A text-based adventure game written in assembly language.  
+- **Minesweeper 2 Players**: An enhanced version of the Minesweeper game with additional features.  
+- **Two-Layered Bucket Sort**: An optimized sorting algorithm for large datasets.  
+- **-DISC Personality Test**: A Java-based application to analyze personality types.  
+- **StreetFood Ninja**: A game inspired by Fruit Ninja, featuring Filipino street food.  
+- **The Maze of Mysteries**: A text-based adventure game written in assembly language.  
 
 ---
 
