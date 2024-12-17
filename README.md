@@ -58,9 +58,7 @@ This project uses the following technologies:
    ```
 3. Open the `index.html` file in a web browser.
 4. Explore the various sections of the portfolio.
-
-Here’s the refined version with everything included in the **Acknowledgments** section:  
-
+   
 ---
 
 ### **Notable Projects**  
