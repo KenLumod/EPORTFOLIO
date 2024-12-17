@@ -75,12 +75,13 @@ This project uses the following technologies:
 
 ---
 
-### **Acknowledgments**  
-I would like to express my gratitude to the following resources and technologies that contributed to building this portfolio and its projects:  
+### Acknowledgments  
 
-- **Bootstrap 4**: For responsive design and layout components.  
-- **Font Awesome**: For icons used in social media links and visuals.  
-- **Google Fonts**: For custom web font styling.  
-- **jQuery and JavaScript Libraries**: For adding smooth interactivity and dynamic UI elements.  
-- **CSS, JavaScript, and Bootstrap Templates**: Proper credits for these resources and templates are included as comments at the top of the respective code files.  
+I would like to extend my sincere gratitude to the following technologies, tools, and resources that played a crucial role in developing this portfolio and its associated projects:  
+
+- **Bootstrap 4**: For providing a powerful framework to design responsive layouts and ensure a consistent user experience across devices.   
+- **jQuery** and **JavaScript Libraries**: For adding seamless interactivity, enhanced user experience, and dynamic UI components.  
+- **CSS, JavaScript, and Bootstrap Templates**: Credits for specific templates and code snippets have been included as comments at the top of their respective files to appropriately recognize their original authors and contributors.  
+
+I am deeply appreciative of these tools, which have been integral in building and refining this project.  
 
