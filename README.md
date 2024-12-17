@@ -64,11 +64,11 @@ Here’s the refined version with everything included in the **Acknowledgments**
 ---
 
 ### **Notable Projects**  
-- **Minesweeper 2 Players**: An enhanced version of the Minesweeper game with additional features.  
-- **Two-Layered Bucket Sort**: An optimized sorting algorithm for large datasets.  
-- **DISC Personality Test**: A Java-based application to analyze personality types.  
-- **StreetFood Ninja**: A game inspired by Fruit Ninja, featuring Filipino street food.  
-- **The Maze of Mysteries**: A text-based adventure game written in assembly language.  
+- Minesweeper 2 Players**: An enhanced version of the Minesweeper game with additional features.  
+- Two-Layered Bucket Sort**: An optimized sorting algorithm for large datasets.  
+- DISC Personality Test**: A Java-based application to analyze personality types.  
+- StreetFood Ninja**: A game inspired by Fruit Ninja, featuring Filipino street food.  
+- The Maze of Mysteries**: A text-based adventure game written in assembly language.  
 
 ---
 
@@ -80,9 +80,9 @@ Here’s the refined version with everything included in the **Acknowledgments**
 ### **Acknowledgments**  
 I would like to express my gratitude to the following resources and technologies that contributed to building this portfolio and its projects:  
 
-- **Bootstrap 4**: For responsive design and layout components.  
-- **Font Awesome**: For icons used in social media links and visuals.  
-- **Google Fonts**: For custom web font styling.  
-- **jQuery and JavaScript Libraries**: For adding smooth interactivity and dynamic UI elements.  
-- **CSS, JavaScript, and Bootstrap Templates**: Proper credits for these resources and templates are included as comments at the top of the respective code files.  
+- Bootstrap 4**: For responsive design and layout components.  
+- Font Awesome**: For icons used in social media links and visuals.  
+- Google Fonts**: For custom web font styling.  
+- jQuery and JavaScript Libraries**: For adding smooth interactivity and dynamic UI elements.  
+- CSS, JavaScript, and Bootstrap Templates**: Proper credits for these resources and templates are included as comments at the top of the respective code files.  
 
