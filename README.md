@@ -51,7 +51,7 @@ This project uses the following technologies:
 
 ## How to Run
 1. View the portfolio directly via **GitHub Pages**:
-   [https://kenlumod.github.io/portfolio/](https://kenlumod.github.io/portfolio/)
+   [https://kenlumod.github.io/portfolio/](https://kenlumod.github.io/EPortfolio/)
 2. Alternatively, clone the repository from GitHub:
    ```bash
    git clone https://github.com/KenLumod/portfolio.git
